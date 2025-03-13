@@ -1,0 +1,93 @@
+# =============== #
+# Unity Generated  #
+# =============== #
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# =============== #
+# Auto-generated files #
+# =============== #
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+
+# =============== #
+# Unity Package Manager #
+# =============== #
+Packages/manifest.json
+Packages/packages-lock.json
+
+# =============== #
+# Crash Reports #
+# =============== #
+sysinfo.txt
+
+# =============== #
+# Unity Cache #
+# =============== #
+[Ss]treamingAssets/UnityPlayer.log
+
+# =============== #
+# IDEs and Editors #
+# =============== #
+.vscode/
+.idea/
+*.csproj
+*.sln
+*.suo
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.VC.opendb
+
+# =============== #
+# Other #
+# =============== #
+*.DS_Store
+*.apk
+*.aab
+*.ipa
+*.iOS
+*.android
+*.tmp
+*.log
+*.orig
+*.patch
+*.asset
+*.generated.cs
+.DS_Store
+Thumbs.db
+
+# =============== #
+# Visual Studio Code #
+# =============== #
+.vscode/
+*.code-workspace
+
+# =============== #
+# Rider #
+# =============== #
+.idea/
+*.sln.iml
